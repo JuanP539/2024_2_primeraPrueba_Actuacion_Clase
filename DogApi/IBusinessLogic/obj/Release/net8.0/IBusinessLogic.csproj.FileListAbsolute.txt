@@ -1,0 +1,31 @@
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\bin\Release\net8.0\IBusinessLogic.deps.json
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\bin\Release\net8.0\IBusinessLogic.dll
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\bin\Release\net8.0\IBusinessLogic.pdb
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\bin\Release\net8.0\Domain.dll
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\bin\Release\net8.0\Domain.pdb
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.csproj.AssemblyReference.cache
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.AssemblyInfoInputs.cache
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.AssemblyInfo.cs
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.csproj.CoreCompileInputs.cache
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.sourcelink.json
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Release\net8.0\IBusines.7CEC4872.Up2Date
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.dll
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Release\net8.0\refint\IBusinessLogic.dll
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.pdb
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Release\net8.0\ref\IBusinessLogic.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\bin\Release\net8.0\IBusinessLogic.deps.json
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\bin\Release\net8.0\IBusinessLogic.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\bin\Release\net8.0\IBusinessLogic.pdb
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\bin\Release\net8.0\Domain.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\bin\Release\net8.0\Domain.pdb
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.AssemblyInfo.cs
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\obj\Release\net8.0\IBusines.7CEC4872.Up2Date
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\obj\Release\net8.0\refint\IBusinessLogic.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\obj\Release\net8.0\IBusinessLogic.pdb
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\obj\Release\net8.0\ref\IBusinessLogic.dll

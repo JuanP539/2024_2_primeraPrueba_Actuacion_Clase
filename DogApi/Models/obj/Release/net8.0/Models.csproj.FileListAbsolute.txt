@@ -1,0 +1,31 @@
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\bin\Release\net8.0\Models.deps.json
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\bin\Release\net8.0\Models.dll
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\bin\Release\net8.0\Models.pdb
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\bin\Release\net8.0\Domain.dll
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\bin\Release\net8.0\Domain.pdb
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Release\net8.0\Models.csproj.AssemblyReference.cache
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Release\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Release\net8.0\Models.AssemblyInfoInputs.cache
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Release\net8.0\Models.AssemblyInfo.cs
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Release\net8.0\Models.csproj.CoreCompileInputs.cache
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Release\net8.0\Models.sourcelink.json
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Release\net8.0\Models.csproj.Up2Date
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Release\net8.0\Models.dll
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Release\net8.0\refint\Models.dll
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Release\net8.0\Models.pdb
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Release\net8.0\ref\Models.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\bin\Release\net8.0\Models.deps.json
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\bin\Release\net8.0\Models.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\bin\Release\net8.0\Models.pdb
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\bin\Release\net8.0\Domain.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\bin\Release\net8.0\Domain.pdb
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Release\net8.0\Models.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Release\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Release\net8.0\Models.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Release\net8.0\Models.AssemblyInfo.cs
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Release\net8.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Release\net8.0\Models.csproj.Up2Date
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Release\net8.0\Models.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Release\net8.0\refint\Models.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Release\net8.0\Models.pdb
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Release\net8.0\ref\Models.dll

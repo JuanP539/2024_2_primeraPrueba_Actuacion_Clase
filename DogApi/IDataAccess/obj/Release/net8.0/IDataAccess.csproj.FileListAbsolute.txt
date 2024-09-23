@@ -1,0 +1,31 @@
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\bin\Release\net8.0\IDataAccess.deps.json
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\bin\Release\net8.0\IDataAccess.dll
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\bin\Release\net8.0\IDataAccess.pdb
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\bin\Release\net8.0\Domain.dll
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\bin\Release\net8.0\Domain.pdb
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.csproj.AssemblyReference.cache
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.AssemblyInfoInputs.cache
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.AssemblyInfo.cs
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.csproj.CoreCompileInputs.cache
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.sourcelink.json
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Release\net8.0\IDataAcc.32FE3A9E.Up2Date
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.dll
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Release\net8.0\refint\IDataAccess.dll
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.pdb
+D:\ORT\DA2\2024_1_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Release\net8.0\ref\IDataAccess.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\bin\Release\net8.0\IDataAccess.deps.json
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\bin\Release\net8.0\IDataAccess.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\bin\Release\net8.0\IDataAccess.pdb
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\bin\Release\net8.0\Domain.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\bin\Release\net8.0\Domain.pdb
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.AssemblyInfo.cs
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj\Release\net8.0\IDataAcc.32FE3A9E.Up2Date
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj\Release\net8.0\refint\IDataAccess.dll
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj\Release\net8.0\IDataAccess.pdb
+C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj\Release\net8.0\ref\IDataAccess.dll
