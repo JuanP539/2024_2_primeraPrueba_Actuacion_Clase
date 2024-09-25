@@ -29,3 +29,19 @@ C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Debu
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Debug\net8.0\refint\Models.dll
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Debug\net8.0\Models.pdb
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\Models\obj\Debug\net8.0\ref\Models.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\bin\Debug\net8.0\Models.deps.json
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\bin\Debug\net8.0\Models.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\bin\Debug\net8.0\Models.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\bin\Debug\net8.0\Domain.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\bin\Debug\net8.0\Domain.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Debug\net8.0\Models.sourcelink.json
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Debug\net8.0\Models.csproj.Up2Date
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Debug\net8.0\Models.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Debug\net8.0\refint\Models.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Debug\net8.0\Models.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\Models\obj\Debug\net8.0\ref\Models.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DogApiTest\\DogApiTest.csproj": {}
+    "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DogApiTest\\DogApiTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\BusinessLogic\\BusinessLogic.csproj",
+        "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\BusinessLogic\\BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\BusinessLogic\\obj\\",
+        "outputPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj"
               },
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IDataAccess\\IDataAccess.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IDataAccess\\IDataAccess.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IDataAccess\\IDataAccess.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IDataAccess\\IDataAccess.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DataAccess\\DataAccess.csproj": {
+    "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DataAccess\\obj\\",
+        "outputPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IDataAccess\\IDataAccess.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IDataAccess\\IDataAccess.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IDataAccess\\IDataAccess.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IDataAccess\\IDataAccess.csproj"
               }
             }
           }
@@ -167,14 +167,14 @@
         }
       }
     },
-    "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DogApiTest\\DogApiTest.csproj": {
+    "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DogApiTest\\DogApiTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DogApiTest\\DogApiTest.csproj",
+        "projectUniqueName": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DogApiTest\\DogApiTest.csproj",
         "projectName": "DogApiTest",
-        "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DogApiTest\\DogApiTest.csproj",
+        "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DogApiTest\\DogApiTest.csproj",
         "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DogApiTest\\obj\\",
+        "outputPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DogApiTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -192,14 +192,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DogApi\\DogApi.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DogApi\\DogApi.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DogApi\\DogApi.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DogApi\\DogApi.csproj"
               },
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj"
               },
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Models\\Models.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Models\\Models.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Models\\Models.csproj"
               }
             }
           }
@@ -260,14 +260,14 @@
         }
       }
     },
-    "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DogApi\\DogApi.csproj": {
+    "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DogApi\\DogApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DogApi\\DogApi.csproj",
+        "projectUniqueName": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DogApi\\DogApi.csproj",
         "projectName": "DogApi",
-        "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DogApi\\DogApi.csproj",
+        "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DogApi\\DogApi.csproj",
         "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DogApi\\obj\\",
+        "outputPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DogApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -285,14 +285,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\BusinessLogic\\BusinessLogic.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\BusinessLogic\\BusinessLogic.csproj"
               },
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Models\\Models.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Models\\Models.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Models\\Models.csproj"
               },
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\ServiceFactory\\ServiceFactory.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\ServiceFactory\\ServiceFactory.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\ServiceFactory\\ServiceFactory.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\ServiceFactory\\ServiceFactory.csproj"
               }
             }
           }
@@ -354,14 +354,14 @@
         }
       }
     },
-    "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Domain\\Domain.csproj": {
+    "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Domain\\obj\\",
+        "outputPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -415,14 +415,14 @@
         }
       }
     },
-    "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj": {
+    "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj",
+        "projectUniqueName": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj",
         "projectName": "IBusinessLogic",
-        "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj",
+        "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj",
         "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IBusinessLogic\\obj\\",
+        "outputPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IBusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -440,8 +440,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Domain\\Domain.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Domain\\Domain.csproj"
               }
             }
           }
@@ -480,14 +480,14 @@
         }
       }
     },
-    "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IDataAccess\\IDataAccess.csproj": {
+    "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IDataAccess\\IDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IDataAccess\\IDataAccess.csproj",
+        "projectUniqueName": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IDataAccess\\IDataAccess.csproj",
         "projectName": "IDataAccess",
-        "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IDataAccess\\IDataAccess.csproj",
+        "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IDataAccess\\IDataAccess.csproj",
         "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IDataAccess\\obj\\",
+        "outputPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -505,8 +505,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Domain\\Domain.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Domain\\Domain.csproj"
               }
             }
           }
@@ -545,14 +545,14 @@
         }
       }
     },
-    "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Models\\Models.csproj": {
+    "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Models\\Models.csproj",
+        "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Models\\obj\\",
+        "outputPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -570,8 +570,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\Domain\\Domain.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\Domain\\Domain.csproj"
               }
             }
           }
@@ -610,14 +610,14 @@
         }
       }
     },
-    "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\ServiceFactory\\ServiceFactory.csproj": {
+    "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\ServiceFactory\\ServiceFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\ServiceFactory\\ServiceFactory.csproj",
+        "projectUniqueName": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\ServiceFactory\\ServiceFactory.csproj",
         "projectName": "ServiceFactory",
-        "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\ServiceFactory\\ServiceFactory.csproj",
+        "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\ServiceFactory\\ServiceFactory.csproj",
         "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\ServiceFactory\\obj\\",
+        "outputPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\ServiceFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -635,14 +635,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\BusinessLogic\\BusinessLogic.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\BusinessLogic\\BusinessLogic.csproj"
               },
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DataAccess\\DataAccess.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj"
+              "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj": {
+                "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IBusinessLogic\\IBusinessLogic.csproj"
               }
             }
           }

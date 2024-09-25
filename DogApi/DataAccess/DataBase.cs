@@ -68,7 +68,7 @@ namespace DataAccess
             return dog;
         }
 
-        public void UpdateDog(Dog dog)
+        public Dog UpdateDog(Dog dog)
         {
             var existingDog = dogs.Find(d => d.Id == dog.Id);
             if (existingDog != null)
@@ -76,16 +76,20 @@ namespace DataAccess
                 existingDog.Breed = dog.Breed;
                 existingDog.Description = dog.Description;
                 existingDog.Hypoalergenic = dog.Hypoalergenic;
+                return dog;
             }
+            return null;
         }
 
-        public void DeleteDog(int id)
+        public Dog DeleteDog(string dog)
         {
-            var dogToRemove = dogs.Find(d => d.Id == id);
+            var dogToRemove = dogs.Find(d => d.Id == Int32.Parse(dog));
             if (dogToRemove != null)
             {
                 dogs.Remove(dogToRemove);
+                return dogToRemove;
             }
+            return null;
         }
     }
 

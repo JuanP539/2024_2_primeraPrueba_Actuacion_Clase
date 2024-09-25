@@ -11,22 +11,22 @@ namespace DogApi.Controllers
     public class DogController : ControllerBase
     {
         private readonly DogLogic _dogLogic;
-        public DogController(DogLogic dogLogic) 
+        public DogController(DogLogic dogLogic)
         {
             _dogLogic = dogLogic;
         }
-        [HttpGet]
-        public IActionResult GetDogs([FromQuery] DogGetModelIn dogGetModel)
+        [HttpDelete("id")]
+        public IActionResult DeleteDogByIdDogs([FromQuery] string dogId)
         {
-            Dog dog = _dogLogic.GetByBreed(dogGetModel.ToEntity());
-            DogGetModelOut dogModelOut = new DogGetModelOut(dog);
-            return CreatedAtAction(nameof(Create), dogModelOut); //returns 201
+            Dog dog = _dogLogic.DeleteDogById(dogId);
+            DogDeleteModelOut dogModelOut = new DogDeleteModelOut(dog);
+            return CreatedAtAction(nameof(UpdateDog), dogModelOut); //returns 201
         }
-        [HttpPost]
-        public IActionResult Create([FromBody] DogCreateModelIn dogCreateModel)
+        [HttpPut]
+        public IActionResult UpdateDog([FromBody] DogUpdateModelIn dogUpdateModel)
         {
-            Dog dog = _dogLogic.CreateDog(dogCreateModel.ToEntity());
-            DogCreateModelOut dogModelOut = new DogCreateModelOut(dog);
+            Dog dog = _dogLogic.UpdateDogByBreed(dogUpdateModel.ToEntity());
+            DogUpdateModelOut dogModelOut = new DogUpdateModelOut(dog);
             return Ok(dogModelOut); //returns 200
         }
     }

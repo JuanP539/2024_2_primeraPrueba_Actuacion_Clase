@@ -45,3 +45,27 @@ C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\ServiceFactory\
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\ServiceFactory\obj\Debug\net8.0\refint\ServiceFactory.dll
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\ServiceFactory\obj\Debug\net8.0\ServiceFactory.pdb
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\ServiceFactory\obj\Debug\net8.0\ref\ServiceFactory.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\bin\Debug\net8.0\ServiceFactory.deps.json
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\bin\Debug\net8.0\ServiceFactory.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\bin\Debug\net8.0\ServiceFactory.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\bin\Debug\net8.0\BusinessLogic.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\bin\Debug\net8.0\DataAccess.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\bin\Debug\net8.0\Domain.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\bin\Debug\net8.0\IBusinessLogic.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\bin\Debug\net8.0\IDataAccess.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\bin\Debug\net8.0\DataAccess.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\bin\Debug\net8.0\IBusinessLogic.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\bin\Debug\net8.0\Domain.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\bin\Debug\net8.0\IDataAccess.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\obj\Debug\net8.0\ServiceFactory.csproj.AssemblyReference.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\obj\Debug\net8.0\ServiceFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\obj\Debug\net8.0\ServiceFactory.AssemblyInfoInputs.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\obj\Debug\net8.0\ServiceFactory.AssemblyInfo.cs
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\obj\Debug\net8.0\ServiceFactory.csproj.CoreCompileInputs.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\obj\Debug\net8.0\ServiceFactory.sourcelink.json
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\obj\Debug\net8.0\ServiceF.58DD87CC.Up2Date
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\obj\Debug\net8.0\ServiceFactory.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\obj\Debug\net8.0\refint\ServiceFactory.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\obj\Debug\net8.0\ServiceFactory.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\ServiceFactory\obj\Debug\net8.0\ref\ServiceFactory.dll

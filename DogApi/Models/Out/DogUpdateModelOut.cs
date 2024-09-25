@@ -7,15 +7,15 @@ using System.Threading.Tasks;
 
 namespace Models.Out
 {
-    public class DogGetModelOut
+    public class DogUpdateModelOut
     {
         public string Breed { get; set; }
         public string Description { get; set; }
         public bool Hypoalergenic { get; set; }
 
-        public DogGetModelOut() { }
+        public DogUpdateModelOut() { }
 
-        public DogGetModelOut(Dog dog) 
+        public DogUpdateModelOut(Dog dog) 
         {
             Breed = dog.Breed;
             Description = dog.Description;

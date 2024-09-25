@@ -31,32 +31,32 @@ namespace DogApiTest
         }
 
         [TestMethod]
-        public void CreateDogsOk() 
+        public void UpdateDogsOk() 
         {
-            DogCreateModelOut expectedResult = new DogCreateModelOut() {Breed = _d.Breed, Description = _d.Description, Hypoalergenic = _d.Hypoalergenic };
-            DogCreateModelIn dogCreateModel = new DogCreateModelIn() { Breed = _d.Breed, Description = _d.Description, Hypoalergenic = _d.Hypoalergenic };
-            var mockDogLogic = new Mock<DogLogic>(MockBehavior.Strict);
+            DogUpdateModelOut expectedResult = new DogUpdateModelOut() {Breed = _d.Breed, Description = _d.Description, Hypoalergenic = _d.Hypoalergenic };
+            DogUpdateModelIn dogCreateModel = new DogUpdateModelIn() { Breed = _d.Breed, Description = _d.Description, Hypoalergenic = _d.Hypoalergenic };
+            var mockDogLogic = new Mock<DogLogic>();
             var dogController = new DogController(mockDogLogic.Object);
 
-            var result = dogController.Create(dogCreateModel);
+            var result = dogController.UpdateDog(dogCreateModel);
             var okResult = result as CreatedAtActionResult;
-            var content = okResult.Value as DogCreateModelOut;
+            var content = okResult.Value as DogUpdateModelOut;
 
             mockDogLogic.VerifyAll();
             Assert.AreEqual(expectedResult, content);
         }
 
         [TestMethod]
-        public void GetDogsOk() 
+        public void DeleteDogsOk()
         {
-            DogGetModelOut expectedResult = new DogGetModelOut() { Breed = _d.Breed, Description = _d.Description, Hypoalergenic = _d.Hypoalergenic };
-            DogGetModelIn dogCreateModel = new DogGetModelIn() { Breed = _d.Breed};
-            var mockDogLogic = new Mock<DogLogic>(MockBehavior.Strict);
+            DogDeleteModelOut expectedResult = new DogDeleteModelOut() { Breed = _d.Breed, Description = _d.Description, Hypoalergenic = _d.Hypoalergenic };
+            DogDeleteModelIn dogCreateModel = new DogDeleteModelIn() { Breed = _d.Breed};
+            var mockDogLogic = new Mock<DogLogic>();
             var dogController = new DogController(mockDogLogic.Object);
 
-            var result = dogController.GetDogs(dogCreateModel);
+            var result = dogController.DeleteDogByIdDogs("dogCreateModel");
             var okResult = result as OkObjectResult;
-            var content = okResult.Value as DogGetModelOut;
+            var content = okResult.Value as DogDeleteModelOut;
 
             mockDogLogic.VerifyAll();
             Assert.AreEqual(expectedResult, content);

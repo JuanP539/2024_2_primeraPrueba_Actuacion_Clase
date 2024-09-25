@@ -5,9 +5,9 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace ServiceFactory
 {
-    public class DogServiceFactory
+    public static class DogServiceFactory
     {
-        public void AddServices(IServiceCollection serviceCollection)
+        public static void AddServices(IServiceCollection serviceCollection)
         {
             serviceCollection.AddScoped<DogLogic, DogLogic>();
             serviceCollection.AddSingleton<DogRepository, DogRepository>();

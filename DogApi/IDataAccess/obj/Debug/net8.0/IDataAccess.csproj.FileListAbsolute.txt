@@ -29,3 +29,19 @@ C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj\Debug\net8.0\refint\IDataAccess.dll
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj\Debug\net8.0\IDataAccess.pdb
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\obj\Debug\net8.0\ref\IDataAccess.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\bin\Debug\net8.0\IDataAccess.deps.json
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\bin\Debug\net8.0\IDataAccess.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\bin\Debug\net8.0\IDataAccess.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\bin\Debug\net8.0\Domain.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\bin\Debug\net8.0\Domain.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Debug\net8.0\IDataAccess.csproj.AssemblyReference.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Debug\net8.0\IDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Debug\net8.0\IDataAccess.AssemblyInfoInputs.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Debug\net8.0\IDataAccess.AssemblyInfo.cs
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Debug\net8.0\IDataAccess.csproj.CoreCompileInputs.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Debug\net8.0\IDataAccess.sourcelink.json
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Debug\net8.0\IDataAcc.32FE3A9E.Up2Date
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Debug\net8.0\IDataAccess.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Debug\net8.0\refint\IDataAccess.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Debug\net8.0\IDataAccess.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\obj\Debug\net8.0\ref\IDataAccess.dll

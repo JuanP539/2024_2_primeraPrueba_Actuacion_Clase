@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IDataAccess
-build_property.ProjectDir = C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IDataAccess\
+build_property.ProjectDir = C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IDataAccess\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

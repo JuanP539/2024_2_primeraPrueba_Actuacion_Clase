@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Models.In
 {
-    public class DogGetModelIn
+    public class DogDeleteModelIn
     {
         public string Breed { get; set; }
 

@@ -14,27 +14,27 @@ namespace BusinessLogic
             _dogRepo = dogRepo;
         }
 
-        public Dog GetByBreed(Dog dog)
+        public Dog DeleteDogById(string dog)
         {
             try
             {
-                return _dogRepo.GetByBreed(dog.Breed);
+                return _dogRepo.DeleteByBreed(dog);
             }
-            catch (DataNotFoundException)
+            catch (Exception)
             {
-                throw new DogNotFoundException();
+                throw new Exception();
             }
         }
 
-        public Dog CreateDog(Dog newDog)
+        public Dog UpdateDogByBreed(Dog newDog)
         {
             try
             {
-                return _dogRepo.Create(newDog);
+                return _dogRepo.UpdateByBreed(newDog);
             }
-            catch (DataNotFoundException)
+            catch (Exception)
             {
-                throw new AlreadyExistingDogException();
+                throw new Exception();
             }
         }
     }

@@ -37,3 +37,23 @@ C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\DataAccess\obj\
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\bin\Debug\net8.0\Domain.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\bin\Debug\net8.0\IDataAccess.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\bin\Debug\net8.0\IDataAccess.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\bin\Debug\net8.0\Domain.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

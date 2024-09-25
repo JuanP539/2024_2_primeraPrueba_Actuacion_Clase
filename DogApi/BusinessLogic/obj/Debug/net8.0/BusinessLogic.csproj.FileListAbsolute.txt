@@ -37,3 +37,23 @@ C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\BusinessLogic\o
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\bin\Debug\net8.0\Domain.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\bin\Debug\net8.0\IBusinessLogic.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\bin\Debug\net8.0\IDataAccess.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\bin\Debug\net8.0\IBusinessLogic.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\bin\Debug\net8.0\IDataAccess.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\bin\Debug\net8.0\Domain.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll

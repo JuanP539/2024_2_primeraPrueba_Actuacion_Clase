@@ -29,3 +29,19 @@ C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\obj\Debug\net8.0\refint\IBusinessLogic.dll
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\obj\Debug\net8.0\IBusinessLogic.pdb
 C:\Users\Juan Pablo\Downloads\Solución PAC\Solución PAC\DogApi\IBusinessLogic\obj\Debug\net8.0\ref\IBusinessLogic.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\bin\Debug\net8.0\IBusinessLogic.deps.json
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\bin\Debug\net8.0\IBusinessLogic.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\bin\Debug\net8.0\IBusinessLogic.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\bin\Debug\net8.0\Domain.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\bin\Debug\net8.0\Domain.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Debug\net8.0\IBusinessLogic.csproj.AssemblyReference.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Debug\net8.0\IBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Debug\net8.0\IBusinessLogic.AssemblyInfoInputs.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Debug\net8.0\IBusinessLogic.AssemblyInfo.cs
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Debug\net8.0\IBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Debug\net8.0\IBusinessLogic.sourcelink.json
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Debug\net8.0\IBusines.7CEC4872.Up2Date
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Debug\net8.0\IBusinessLogic.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Debug\net8.0\refint\IBusinessLogic.dll
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Debug\net8.0\IBusinessLogic.pdb
+C:\Ort\2024_2_primeraPrueba_Actuacion_Clase\DogApi\IBusinessLogic\obj\Debug\net8.0\ref\IBusinessLogic.dll

@@ -4450,11 +4450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\DataAccess\\obj\\",
+      "outputPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4472,8 +4472,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IDataAccess\\IDataAccess.csproj": {
-              "projectPath": "C:\\Users\\Juan Pablo\\Downloads\\Solución PAC\\Solución PAC\\DogApi\\IDataAccess\\IDataAccess.csproj"
+            "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IDataAccess\\IDataAccess.csproj": {
+              "projectPath": "C:\\Ort\\2024_2_primeraPrueba_Actuacion_Clase\\DogApi\\IDataAccess\\IDataAccess.csproj"
             }
           }
         }

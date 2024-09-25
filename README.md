@@ -2,7 +2,7 @@
 
 En este ejercicio, tendrás la oportunidad de aplicar lo que hemos aprendido sobre buenas prácticas y la implementación de servidores web con 3 capas. Se te proporcionará un código base que presenta algunos problemas, y tu objetivo es analizarlo, identificar las mejoras necesarias y corregirlo.
 
-Solamente deben enfocarse en arreglar **el método GET o POST**, no ambos. Esto incluye también a las pruebas unitarias asociadas a dicho método.
+Solamente deben enfocarse en arreglar **el método PUT o Delete**, no ambos. Esto incluye también a las pruebas unitarias asociadas a dicho método.
 
 **Nota importante**: No necesitas crear clases nuevas para completar este ejercicio. Trabaja únicamente con las clases ya proporcionadas.
 
