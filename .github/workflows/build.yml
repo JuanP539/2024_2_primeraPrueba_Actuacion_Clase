@@ -1,0 +1,29 @@
+name: .NET Build
+
+on:
+  push:
+    branches:
+      - '**'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        dotnet_version: ['8.0']
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: ${{ matrix.dotnet_version }}
+
+    - name: Restore dependencies
+      run: dotnet restore 'DogApi/DogApi.sln'
+
+
+    - name: Build
+      run: dotnet build 'DogApi/DogApi.sln' --no-restore
